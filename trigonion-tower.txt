@@ -1,0 +1,167 @@
+trigonion-tower
+
+
+我们网站是
+XXXXXXXXXX
+检查一遍看下是否有错误
+
+
+
+我们网站是
+检查下有没有错误
+
+
+
+你正在用（Next.js开发）
+为一个新景点【 Trigonion Tower 】构建静态/Next.js 单页指南网站。
+页面只需要支持中文和英文双语言
+
+
+希腊
+中马其顿大区	Trigonion Tower	
+Trigonion Tower
+Πύργος Τριγωνίου (Αλύσεως)
+4.7(7,589)
+古迹地标
+Agios Pavlos 546 34希腊
++302313310400
+JXR5+7X Agios Pavlos, 希腊
+https://maps.app.goo.gl/2VPEts66p8h1J8YS7
+
+
+
+
+
+
+
+首屏背景图要引用以下
+C:\Users\Administrator\Downloads\希腊\trigonion-tower\public\gallery
+
+
+删除原先友情链接，新增以下友情链接
+
+希腊国家旅游组织 (GNTO)
+https://www.visitgreece.gr/
+中马其顿大区政府
+https://visit-centralmacedonia.gr/
+塞萨洛尼基市政府
+https://thessaloniki.travel/
+塞萨洛尼基市古物局
+https://efapoth.gr/
+希腊国家考古地籍系统
+https://www.arxaiologikoktimatologio.gov.gr/
+
+
+
+
+在Google地图上查看位置都跳转为 https://maps.app.goo.gl/2VPEts66p8h1J8YS7
+页面一共四个链接每一个都需要修改
+
+
+照片画廊
+精彩照片 显示照片不全目前只显示8张，需要有显示完整照片显示功能
+检查照片名称是否正确并修正
+
+
+删除 探索更多 板块
+
+
+首屏谷歌地图位置跳转为 https://maps.app.goo.gl/2VPEts66p8h1J8YS7
+
+照片画廊
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/2VPEts66p8h1J8YS7
+
+游客评价
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/2VPEts66p8h1J8YS7
+
+地图位置
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/2VPEts66p8h1J8YS7
+
+首屏右侧切换中文的时候 网站没转为/zh
+
+新增
+希腊语
+
+
+生成一个文件忽略不需要上传的文件
+
+
+
+
+
+
+
+
+买域名推荐
+
+
+
+
+
+希腊
+中马其顿大区	Trigonion Tower	
+Trigonion Tower
+Πύργος Τριγωνίου (Αλύσεως)
+4.7(7,589)
+古迹地标
+Agios Pavlos 546 34希腊
++302313310400
+JXR5+7X Agios Pavlos, 希腊
+https://maps.app.goo.gl/2VPEts66p8h1J8YS7
+
+
+
+
+给我五个国家级、大区级、市级到专业遗产数据库的完整链条
+
+
+
+严格限制为国家及地方政府官方、官方官方旅游局的网站友情链接，确保全部具备纯正的官方政府背景： 
+
+
+
+
+
+针对位于希腊中马其顿大区塞萨洛尼基市（具体位于 Agios Pavlos 区域）的**三角塔（Trigonion Tower / Πύργος Τριγωνίου）**，以下为您提供严格从“国家级 ➡️ 大区级 ➡️ 市级 ➡️ 地方专管机构 ➡️ 专业遗产数据库”自上而下的5个纯正官方政府背景链条。
+
+三角塔是联合国教科文组织世界遗产“塞萨洛尼基早期基督教和拜占庭古迹（Paleochristian and Byzantine monuments of Thessaloniki）”的核心组成部分，其管辖链条如下：
+
+### 1. 国家级 (National Level)：希腊国家旅游组织 (GNTO)
+
+希腊旅游部直属的最高级别对外推广机构。该平台统筹全国世界遗产与拜占庭时期古迹的国家级旅游宣发，涵盖了塞萨洛尼基上城（Ano Poli）及城墙防御工事的整体介绍。
+
+* **机构：** 希腊国家旅游组织 (Visit Greece)
+* **官方网址：** [visitgreece.gr](https://www.visitgreece.gr/)
+
+### 2. 大区级 (Regional Level)：中马其顿大区政府
+
+中马其顿大区（Region of Central Macedonia）是希腊一级的行政区划。大区政府负责统筹辖区内（包括塞萨洛尼基）的文化发展战略与区域级旅游推广，确保国家政策在地方的落地。
+
+* **机构：** 中马其顿大区政府官方政务网 / 大区官方旅游局
+* **官方网址：** [pkm.gov.gr](https://www.pkm.gov.gr/) （大区政府官方政务网）/ [visit-centralmacedonia.gr](https://visit-centralmacedonia.gr/) （大区官方旅游平台）
+
+### 3. 市级 (Municipal Level)：塞萨洛尼基市政府
+
+塞萨洛尼基（Thessaloniki）市政府直接主导该市城市核心区内古迹的周边市政配套规划。其下属的官方旅游组织专门针对三角塔及上城区的游览路线制定了市级官方导览。
+
+* **机构：** 塞萨洛尼基市政府 / 塞萨洛尼基官方旅游组织
+* **官方网址：** [thessaloniki.gr](https://thessaloniki.gr/) （市政官方政务网）/ [thessaloniki.travel](https://thessaloniki.travel/) （市官方旅游局官网）
+
+### 4. 地方专管执行机构 (Specific Authority)：塞萨洛尼基市古物局
+
+这是针对三角塔**最直接、最核心**的官方管辖机构。它是希腊文化部（Ministry of Culture）直属派驻当地的官方机构，全权负责三角塔及拜占庭城墙的日常考古挖掘、修缮维护、开放管理及门票事务。
+
+* **机构：** 塞萨洛尼基市古物局 (Ephorate of Antiquities of Thessaloniki City / ΕΦΑ Πόλης Θεσσαλονίκης)
+* **官方网址：** [efapoth.gr](https://www.google.com/search?q=https://www.efapoth.gr/)
+
+### 5. 专业遗产数据库 (Heritage Database)：希腊国家考古地籍系统
+
+这是希腊政府最新升级的现代数字化国家级 GIS 遗产数据库（全面采用 HTTPS 加密协议，不存在安全警告）。三角塔作为国家最高级别保护文物，其精确的法定保护边界、历史档案、数字测绘数据均以此数据库的登记为最高法律依据。
+
+* **机构：** 希腊文化部 - 考古地籍与空间信息局
+* **官方网址：** [arxaiologikoktimatologio.gov.gr]()
+
+
+
+
+
