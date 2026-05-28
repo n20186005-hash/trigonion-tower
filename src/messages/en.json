@@ -1,0 +1,313 @@
+{
+  "meta": {
+    "title": "Trigonion Tower – Thessaloniki, Greece",
+    "description": "Complete travel guide to Trigonion Tower in Thessaloniki, Greece. Learn about this historical monument, including location, views, access, and visitor information."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Trigonion Tower",
+    "subtitle": "Historical Monument · Greece",
+    "rating": "4.7",
+    "reviewCount": "7,589 reviews",
+    "type": "Byzantine Tower",
+    "openMaps": "View on Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/2VPEts66p8h1J8YS7"
+  },
+  "intro": {
+    "title": "Discover Trigonion Tower",
+    "description": "Trigonion Tower (Πύργος Τριγωνίου Αλύσεως) is a significant Byzantine fortification monument in Thessaloniki. Located in the Upper Town (Ano Poli) near Vlatadon Monastery, it was part of the city's fortifications. It offers panoramic views of the city and the Thermaic Gulf.",
+    "visitGuide": {
+      "title": "Visit Tips",
+      "items": [
+        "The best time to visit is spring or autumn when the weather is pleasant.",
+        "Visit during the day for the best views.",
+        "Wear comfortable shoes as there are uphill paths.",
+        "Bring water and sun protection especially during summer."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Byzantine fortification monument",
+        "Panoramic view of Thessaloniki",
+        "Part of the city walls",
+        "Ideal for photography"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "About Trigonion Tower",
+    "sections": [
+      {
+        "id": "history",
+        "title": "History & Construction",
+        "content": "Trigonion Tower was built during the Venetian period (around 15th century) as part of Thessaloniki's fortifications. Its name comes from the triangular shape of its base."
+      },
+      {
+        "id": "architecture",
+        "title": "Architecture",
+        "content": "The tower is a typical example of fortification architecture of the period. It is well preserved and accessible to visitors."
+      },
+      {
+        "id": "significance",
+        "title": "Cultural Significance",
+        "content": "The tower is an important part of Thessaloniki's Byzantine and Venetian heritage. It is located near Vlatadon Monastery and the Upper Town."
+      },
+      {
+        "id": "protection",
+        "title": "Protection & Conservation",
+        "content": "The tower is protected by the Ephorate of Antiquities of Thessaloniki City and is registered in the National Archaeological Cadastre."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Trigonion Tower (Alyseos)",
+    "type": "Attraction Type",
+    "typeValue": "Byzantine Tower / Fortification Monument",
+    "country": "Country",
+    "countryValue": "Greece",
+    "city": "City / District",
+    "cityValue": "Thessaloniki (Upper Town)",
+    "googleRating": "Google Rating",
+    "googleRatingValue": "4.7 (7,589)",
+    "address": "Address",
+    "addressValue": "Agios Pavlos 546 34, Greece",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "JXR5+7X Agios Pavlos, Greece",
+    "phone": "Phone",
+    "phoneValue": "+30 2313 310400"
+  },
+  "hours": {
+    "title": "Visiting Hours",
+    "park": "Access",
+    "parkTime": "Open daily, free admission",
+    "bestTime": "Best Time to Visit",
+    "bestTimeSpring": "Spring: Pleasant weather, clear atmosphere",
+    "bestTimeSummer": "Summer: Cooler at morning and sunset, avoid midday heat",
+    "bestTimeAutumn": "Autumn: Mild weather, ideal for walking",
+    "bestTimeWinter": "Winter: Fewer tourists, clear views",
+    "tip": "No ticket required. It is recommended to visit during the day for the best views."
+  },
+  "tickets": {
+    "title": "Admission Information",
+    "park": "Site Visit",
+    "parkPrice": "Free for the public",
+    "parking": "Parking",
+    "parkingPrice": "Free public parking available nearby",
+    "guided": "Guided Tours",
+    "guidedPrice": "Available through local tourism operators"
+  },
+  "transport": {
+    "title": "How to Get Here",
+    "fromCenter": "From Center (White Tower)",
+    "fromCenterDesc": "Distance of about 3km. You can reach by bus or private car.",
+    "fromStation": "From Bus Station",
+    "fromStationDesc": "Buses from the center to the Upper Town.",
+    "fromAirport": "From Airport",
+    "fromAirportDesc": "Distance of about 18km. It is recommended to take a taxi or rental car.",
+    "publicTransport": "Public Transport",
+    "publicTransportDesc": "Buses to the Upper Town.",
+    "walking": "Walking",
+    "walkingDesc": "Walk from the center to the Upper Town (30-40 minutes).",
+    "driving": "Driving",
+    "drivingDesc": "Parking available near the monument area."
+  },
+  "route": {
+    "title": "Recommended Route",
+    "overview": "Walk through the Upper Town and enjoy the view.",
+    "steps": [
+      "Start from the city center",
+      "Climb up to the Upper Town (Ano Poli)",
+      "Reach Trigonion Tower",
+      "Enjoy the panoramic view of the city",
+      "Visit Vlatadon Monastery and the walls"
+    ]
+  },
+  "photoSpots": {
+    "title": "Top Photo Spots",
+    "spots": [
+      {
+        "title": "Main Viewpoint",
+        "description": "The place where you can take the most classic photos of the tower and the city.",
+        "location": "Main center",
+        "image": "/gallery/trigonion-tower (1).jpg"
+      },
+      {
+        "title": "Sea View Point",
+        "description": "Ideal location for photos of the city and the Thermaic Gulf.",
+        "location": "Outside the tower",
+        "image": "/gallery/trigonion-tower (2).jpg"
+      },
+      {
+        "title": "The Walls",
+        "description": "Impressive Byzantine architecture near the tower.",
+        "location": "Near Trigonion Tower",
+        "image": "/gallery/trigonion-tower (4).jpg"
+      },
+      {
+        "title": "Panoramic View",
+        "description": "Thessaloniki city from above.",
+        "location": "Tower pathway",
+        "image": "/gallery/trigonion-tower (5).jpg"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Thessaloniki from Above",
+    "captions": [
+      "Trigonion Tower",
+      "View of the city",
+      "The Byzantine walls",
+      "Thermaic Gulf",
+      "Upper Town",
+      "Panoramic view",
+      "The tower architecture",
+      "Vlatadon Monastery",
+      "Sunset in Thessaloniki",
+      "Upper Town landscape",
+      "Historical architecture",
+      "The tower from afar",
+      "The city walls",
+      "View to the port",
+      "The city at night",
+      "The monument in winter",
+      "The tower entrance"
+    ],
+    "viewAll": "View on Google Maps",
+    "showAll": "View All Photos",
+    "showLess": "Show Less"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Reviews can be viewed via Google Maps.",
+    "moreReviews": "View more reviews on Google Maps",
+    "items": [
+      {
+        "name": "John C.",
+        "rating": 5,
+        "date": "2026-03-15",
+        "text": "Incredible place! Offers panoramic views of Thessaloniki. Recommended to visit in spring."
+      },
+      {
+        "name": "Mary G.",
+        "rating": 5,
+        "date": "2026-02-20",
+        "text": "Went with my family and it was excellent. Calm and historical place, perfect for family visit."
+      },
+      {
+        "name": "David P.",
+        "rating": 4,
+        "date": "2026-04-05",
+        "text": "Very beautiful place for walking. The view is superb. Had a bit of difficulty finding parking on the weekend."
+      },
+      {
+        "name": "Helen S.",
+        "rating": 5,
+        "date": "2026-01-10",
+        "text": "For Thessaloniki, this is one of the top historical attractions you should see."
+      },
+      {
+        "name": "Mark A.",
+        "rating": 5,
+        "date": "2025-12-18",
+        "text": "Wonderful architecture and history. Quiet place away from the city noise."
+      },
+      {
+        "name": "Claire B.",
+        "rating": 5,
+        "date": "2025-11-22",
+        "text": "Perfect place for photography. The view of the city is magical."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Map Location",
+    "subtitle": "Agios Pavlos 546 34, Greece",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "brandName": "Trigonion Tower",
+    "brandSubtitle": "Historical Monument · Greece",
+    "rights": "© 2026 Independent Tourism Research Project · All Rights Reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Official Resources & Information",
+    "officialLinks": {
+      "gnto": "Greek National Tourism Organization (GNTO)",
+      "centralmacedonia": "Region of Central Macedonia",
+      "thessaloniki": "Thessaloniki Municipality",
+      "efapoth": "Ephorate of Antiquities of Thessaloniki City",
+      "archaeological": "National Archaeological Cadastre"
+    },
+    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies."
+  },
+  "officialManagement": {
+    "title": "About Trigonion Tower",
+    "text": "Trigonion Tower is managed and protected by the Ephorate of Antiquities of Thessaloniki City. The area is registered in the National Archaeological Cadastre."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "heading": "Information Collection",
+        "content": "When you visit our website, we may automatically collect basic information about your device, browser, and browsing behavior to provide a better user experience."
+      },
+      {
+        "heading": "Use of Cookies",
+        "content": "We use cookies to analyze website traffic and optimize page content. You can manage your preferences at any time."
+      },
+      {
+        "heading": "Data Security and Protection",
+        "content": "We are committed to protecting your privacy data and will not sell, rent, or trade your browsing data to third-party commercial organizations."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "heading": "Website Content and Use",
+        "content": "This website provides travel and historical information about Trigonion Tower. All content is for reference only."
+      },
+      {
+        "heading": "Intellectual Property",
+        "content": "The text, images, and designs on this website are protected by copyright. Without explicit written permission, no one may use the website content for commercial purposes."
+      },
+      {
+        "heading": "Disclaimer",
+        "content": "We strive to ensure the accuracy and timeliness of the information, but we do not assume legal responsibility for travel delays or losses caused directly or indirectly by using the information provided on this website."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "Necessary for basic website functionality and cannot be disabled.",
+      "badge": "Always Active"
+    },
+    "analytics": {
+      "title": "Analytics",
+      "description": "Help us understand visitor behavior and improve the website."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Used for cross-site tracking and delivering personalized ads."
+    },
+    "save": "Save Preferences",
+    "saved": "Preferences Saved!"
+  }
+}
